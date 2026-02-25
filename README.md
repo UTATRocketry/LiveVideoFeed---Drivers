@@ -10,7 +10,4 @@ The firmware enables real-time acquisition, processing, and compression of video
 - STM32H742VGT6
 - RunCam Split 4-25
 
-### Clone the Repository
-```bash
-git clone https://github.com/<organization>/<repository>.git
 
