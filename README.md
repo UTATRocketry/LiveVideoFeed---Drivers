@@ -7,7 +7,7 @@ The firmware enables real-time acquisition, processing, and compression of video
 
 ## Hardware
 - ADV7180WBCP32Z
-- STM32H742VGT6
+- STM32H743VGT6
 - RunCam Split 4-25
 
 
